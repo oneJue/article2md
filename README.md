@@ -1,9 +1,15 @@
 爬取博客文章保存为md
-(纯净版去除多余内容，支持多平台(CSDN,简书，知乎等)）
+
+(纯净版去除多余内容，支持多平台(CSDN,简书，知乎等))
+
 Two Method to choose
+
 article2md(one).py:Method one:
+
 article2md(second).py:Method two:
+
 article2批量版.py：对CSDN的某一专栏下全部文章进行转化成markdown
+
  _________________
 + # Method one:
 
