@@ -8,7 +8,10 @@ article2md(one).py:Method one:
 
 article2md(two).py:Method two:
 
+
 article2批量版.py：对CSDN的某一专栏下全部文章进行转化成markdown
+类似爬取下面这种[Markdown语法](https://blog.csdn.net/qq_39183034/category_12164885.html)
+
 
  _________________
 + # Method one:
